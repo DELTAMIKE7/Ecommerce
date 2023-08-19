@@ -1,0 +1,25 @@
+/* ---------------Front Page ke text ka anime---- */
+	.oflow-verti {
+		transition: top 0.4s, transform 0.5s ease-in-out;
+		transform: translate3d(-5px, 70px, 0px) rotate(6deg);
+	}
+	.oflow-txt {
+		display: block;
+	}
+	.fnt1 {
+		font-size: 2.2rem;
+		letter-spacing: 0.1rem;
+	}
+	.fpara {
+		font-size: 0.8rem;
+		width: 90%;
+	}
+	[data-res='responsive-center'] {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.fnt3 {
+		font-size: 1.5rem;
+		letter-spacing: 0.15rem;
+	}
